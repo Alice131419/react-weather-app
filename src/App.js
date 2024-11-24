@@ -12,13 +12,20 @@ export default function App() {
           <a href="https://github.com/Alice131419" target="blank">
             Alice Petcu
           </a>{" "}
-          and is{" "}
+          , is{" "}
           <a
             href="https://github.com/Alice131419/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
             open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://app.netlify.com/sites/relaxed-dolphin-1217a4/overview"
+            target="_blank"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
