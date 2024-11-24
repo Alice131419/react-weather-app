@@ -24,6 +24,7 @@ export default function App() {
           <a
             href="https://app.netlify.com/sites/relaxed-dolphin-1217a4/overview"
             target="_blank"
+            rel="noreferrer"
           >
             hosted on Netlify
           </a>
